@@ -307,6 +307,8 @@ Alguns tipos de palavras:
 
 ## Estrutura Frase Afirmativa
 
+## Estrutura Frase Negativa
+
 ## Estrutura Frase Interrogativa
 
 ## Estrutura Frase Imperativa
