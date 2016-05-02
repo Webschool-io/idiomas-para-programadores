@@ -2,7 +2,7 @@
 
 Como aprender um idioma como um programador.
 
-Eu sempre vejo a galera começando a aprender o vocabulário quando inicia os estudos em um idioma novo, porém isso para mim é muito ilógico como um programador.
+Eu sempre vejo a galera começando a aprender o vocabulário quando inicia os estudos em um novo idioma, porém isso para mim é muito ilógico como um programador.
 
 > Ueh por quê?
 
