@@ -37,7 +37,7 @@ Para eu ir ao cinema precisam existir 2 condições:
 - ter dinheiro
 - ter tempo livre
 
-Nesse caso se as 2 precisam existir para que eu possa ir ao cinema podemos escrever dessa forma:
+Nesse caso se as duas precisam existir para que eu possa ir ao cinema podemos escrever dessa forma:
 
 ```
 (ir ao cinema) = ter dinheiro E ter tempo livre
@@ -49,15 +49,15 @@ Então trocando as premissas por valores teremos:
 (ir ao cinema) = TRUE E TRUE
 ```
 
-Beleza então sabemos que eu preciso dessas 2 premissas verdadeiras para que a expressão `ir ao cinema` seja verdadeira.
+Beleza, então sabemos que eu preciso que essas duas premissas sejam verdadeiras para que a expressão `ir ao cinema` seja verdadeira.
 
-Mas o que acontece se qualquer 1 dessas premissas for falsa?
+Mas o que acontece se qualquer uma delas for falsa?
 
 ```
 (ir ao cinema) = ter dinheiro(FALSE) E ter tempo livre(TRUE)
 ```
 
-Se temos tempo livre mas não temos dinheiro para ir ao cinema, qual será o resultado dessa expressão?
+Se tenho tempo livre mas não tenho dinheiro para ir ao cinema, qual será o resultado dessa expressão?
 
 **LOGICAMENTE** será falsa, correto?
 
@@ -67,7 +67,7 @@ E se eu trocar esse `E` por um `OU`???
 (ir ao cinema) = ter dinheiro OU ter tempo livre
 ```
 
-Se temos tempo livre ou temos dinheiro para ir ao cinema, qual será o resultado dessa expressão se não tivermos dinheiro, mas tivermos tempo?
+Se tenho tempo livre ou tenho dinheiro para ir ao cinema, qual será o resultado da expressão?
 
 ```
 (ir ao cinema) = ter dinheiro(FALSE) OU ter tempo livre(TRUE)
@@ -79,9 +79,9 @@ Agora eu lhe pergunto:
 
 > Conhecendo apenas esses 2 exemplos você consegue inferir qual a diferença do E para o OU?
 
-Aposto que você deve ter percebido que na expressão com `E` eu precisei que **todas as premissas sejam verdadeiras** para que a expressão também seja.
+Aposto que você deve ter percebido que na expressão com `E` eu preciso que **todas as premissas sejam verdadeiras** para que a expressão também seja.
 
-Diferentemente no `OU` onde tendo **apenas 1 premissa verdadeira** fará toda a expressão também ser verdadeira.
+Diferentemente no `OU` havendo **apenas uma premissa verdadeira** toda a expressão também será verdadeira.
 
 Agora vou lhe dar um exemplo com código:
 
