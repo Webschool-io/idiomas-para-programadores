@@ -178,7 +178,7 @@ Vamos migrar esse conhecimento para o mundo real, onde a Lógica pode ser a sint
 
 *fonte: [http://www.soportugues.com.br/secoes/sint/](http://www.soportugues.com.br/secoes/sint/)*
 
-*Tudo bem que as 2 parecem muito mais com a Lógica do que com Algoritmo, mas isso é para efeito de demonstração.*
+*Tudo bem que as duas parecem muito mais com a Lógica do que com Algoritmo, mas isso é para efeito de demonstração.*
 
 Agora pense comigo:
 
@@ -219,6 +219,7 @@ Então imagine comigo que em vez de você começar aprendendo o vocabulário, vo
 - afirmativa
 - interrogativa
 - imperativa
+- negativa
 
 Para efeito de demonstração vamos analisar a estrutura de uma frase interrogativa:
 
@@ -229,7 +230,7 @@ Onde está minha maconha?
 Podemos separá-la assim:
 
 ```
-{Pronome interrogativo} {verbo} {pronome} {substantivo}?
+{Pronome interrogativo} {verbo} {pronome possessivo} {substantivo}?
 ```
 
 E em inglês ela fica:
@@ -247,7 +248,7 @@ Seus olhos verdes são lindos.
 Estrutura:
 
 ```
-{Pronome} {substantivo} {adjetivo} {verbo} {adjetivo}.
+{Pronome possessivo} {substantivo} {adjetivo} {verbo} {adjetivo}.
 ```
 
 Em inglês:
@@ -259,7 +260,7 @@ Your green eyes are beautiful.
 Estrutura:
 
 ```
-{Pronome} {adjetivo} {substantivo} {verbo} {adjetivo}.
+{Pronome possessivo} {adjetivo} {substantivo} {verbo} {adjetivo}.
 ```
 
 Logo se nós aprendermos a estrutura da mesma frase, no nosso idioma e no estudado, ficará muito mais fácil colocar as palavras, quando aprender, nos lugares corretos.
@@ -270,7 +271,7 @@ Não fica muito mais fácil de você aprender as palavras em cima do contexto no
 
 Pelo menos para nós programadores, **ou pelo menos para mim**, essa seria a forma mais lógica de aprender um idioma pois é dessa forma que aprendemos outras linguagens de programação.
 
-**Se alguém se animar a gente toca esse conceito louco, pois já tenho várias ideias para facilitar essa metodologia. <3**
+**Se alguém se animar a gente toca esse conceito louco, pois já tenho várias idéias para facilitar essa metodologia. <3**
 
 *Continuação*
 
@@ -283,11 +284,12 @@ Antes de criamos essa metodologia precisamos definir certos padrões que existem
 
 ## Tipos de frase
 
-Vamos listar as 3 mais básicas:
+Vamos listar as quatro mais básicas:
 
 - afirmativa
 - interrogativa
 - imperativa
+- negativa
 
 
 ## Tipos de palavras
