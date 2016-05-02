@@ -6,7 +6,7 @@ Eu sempre vejo a galera começando a aprender o vocabulário quando inicia os es
 
 > Ueh por quê?
 
-Primeiramente que para você traduzir 1 palavra para outro idioma qualquer tradutor faz, agora traduzir todas as frases semanticamente corretas, ahhhh isso são outros 500...
+Porque traduzir 1 palavra para outro idioma qualquer tradutor faz, agora traduzir todas as frases semanticamente corretas, ahhhh isso é outros 500...
 
 **Vou te explicar da ótica de um programador.**
 
