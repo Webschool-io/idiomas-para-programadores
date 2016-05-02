@@ -26,9 +26,7 @@ Isso acontece porque Algoritmo e Lógica são as bases para se programar qualque
 
 **Então se elas são tão importantes assim, o que elas ensinam?**
 
-Basicamente Algoritmos te ensina como criar um passo-a-passo, em Português mesmo, para resolver algum problema.
-
-E a Lógica te ensina a pensar, te ensina a ponderar mais de 1 premissa.
+Basicamente, Algoritmos te ensina como criar um passo-a-passo, em Português mesmo, para resolver algum problema e a Lógica te ensina a pensar, te ensina a ponderar mais de 1 premissa.
 
 **Hein!??**
 
