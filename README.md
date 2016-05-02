@@ -121,7 +121,7 @@ if(idade >= 18 && (sexo === 'M' || sexo === 'F')) {
 }
 ```
 
-Nesse caso testarmos o valor de `idade >= 18` com `(sexo === 'M' || sexo === 'F')`, isso é apenas um exemplo bem simples de teste lógico.
+Nesse caso testamos o valor de `idade >= 18` com `(sexo === 'M' || sexo === 'F')`, isso é apenas um exemplo bem simples de teste lógico.
 
 Imagine que temos apenas:
 
