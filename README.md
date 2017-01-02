@@ -240,7 +240,7 @@ E em inglês ela fica:
 Where is my weed?
 ````
 
-A qual utiliza a mesma estrutura anterior, porém se analisarmos uma frase que possui um adejetivo as coisas já mudam:
+A qual utiliza a mesma estrutura anterior, porém se analisarmos uma frase que possui um adjetivo as coisas já mudam:
 
 ```
 Seus olhos verdes são lindos.
