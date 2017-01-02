@@ -372,3 +372,11 @@ describe(`Testando oração interrogativa no Presente:
 ```
 
 ## Estrutura Frase Imperativa
+
+
+
+## Estruturas Lógicas e Condicionais
+
+Isso também pode ser interessate
+
+
