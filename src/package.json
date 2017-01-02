@@ -1,0 +1,15 @@
+{
+  "name": "idiomas-para-programadores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suissa",
+  "license": "WTFPL",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "revinter": "^1.0.0"
+  }
+}
